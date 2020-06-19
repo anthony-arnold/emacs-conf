@@ -1,0 +1,1 @@
+Usage: ln -s conf ~/.emacs
