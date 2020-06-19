@@ -27,3 +27,5 @@ will be killed."
 (setq backup-by-copying t)
 
 (delete-selection-mode 1)
+(global-display-line-numbers-mode)
+(column-number-mode 1)
